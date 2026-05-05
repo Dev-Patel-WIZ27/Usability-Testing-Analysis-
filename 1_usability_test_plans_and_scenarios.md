@@ -9,7 +9,7 @@
 - Measure task completion time and error rates to identify UX friction points.
 
 ## 2. Methodology
-- **Format:** Moderated Remote Testing with a Think-Aloud Protocol.
+- **Format :** Moderated Remote Testing with a Think-Aloud Protocol.
 - **Tools:** Zoom/Google Meet for observation, built-in prototype console for event logging.
 - **Duration:** 15-20 minutes per session.
 
