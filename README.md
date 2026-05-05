@@ -4,9 +4,14 @@ This project repository contains the complete documentation, planning, and resul
 
 ## 📂 Project Structure
 
-- **`usability_testing_report.md`**: The comprehensive final report containing findings, usability metrics, and design improvement suggestions.
-- **`test_plan_and_scenarios.md`**: The structured plan detailing the testing methodology, user demographics, and specific tasks given to users.
-- **`raw_feedback.md`**: Simulated raw feedback data collected during the testing sessions.
+This repository is organized to map exactly to the key requirements of the usability testing module:
+
+- **`1_usability_test_plans_and_scenarios.md`**: Outlines testing objectives, methodology, and the core tasks.
+- **`2_recruit_sample_users_and_conduct_sessions.md`**: Details participant demographics and how the remote sessions were facilitated.
+- **`3_record_observations_and_collect_feedback.md`**: Contains quantitative interaction logs and qualitative user feedback.
+- **`4_report_with_findings_and_design_improvements.md`**: Translates observations into actionable UX/UI design changes.
+- **`5_expected_outcome.md`**: Summarizes the metrics tracked and the overall success of the testing process.
+- **`Final_Submission_Package.md`**: An all-in-one consolidated master document for easy reading.
 
 ## 🎯 Objectives
 - Prepare usability test plans and scenarios.
